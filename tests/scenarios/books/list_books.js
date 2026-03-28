@@ -1,4 +1,4 @@
-import { getBooks } from '../../steps/books/Books.js'
+import { getBooks } from '../../steps/Books/get_books.js'
 import { generateTestData } from '../../utils/helpers.js'
 
 before(async () => {
