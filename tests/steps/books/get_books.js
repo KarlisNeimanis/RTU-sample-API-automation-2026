@@ -11,7 +11,7 @@ export async function getBooks() {
             ],
             expectedFields: [
                 '0.id',
-                '6.id'
+                '99.id'
             ]
         }
 
